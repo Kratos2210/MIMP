@@ -1,0 +1,121 @@
+.row-header {
+  margin: 0px auto;
+  padding: 0px 0px; }
+
+
+body {
+  padding: 50px 0px 0px 0px;
+ }
+
+.navbar {
+  background-color: rgb(173, 171, 177); 
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+
+.carousel {
+  background: rgb(79, 78, 80); 
+ 
+}
+  
+  .carousel .carousel-item {
+    height: 300px; 
+    
+  }
+    .carousel .carousel-item img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-height: 300px; }
+
+
+.col {
+  padding: 0px 0px 0px 0px;
+}
+
+.titulo1 {
+  text-align: center;
+  padding-top: 14px;;
+}
+
+.row-content{
+
+  padding: 3rem;
+  padding-bottom: 8rem;
+}
+
+
+.service {
+  width: 50px;
+  height: 50px;
+  padding: 60px;
+  color: #fff;
+  border-radius: 50%;
+  margin: 0px auto;
+  border: solid 1px rgb(122, 119, 121);
+
+}
+
+.service:hover{
+
+    background-color: rgb(122, 119, 121);
+  
+}
+
+#lienacien{
+  padding-top: 4rem;
+}
+.item1{
+
+  margin: 0px;
+  padding: 0px;
+}
+h1,p,h3,h2{
+  text-align: center;
+}
+
+.img-fluid{
+  border: solid 1px black;
+}
+
+.Desclinea{
+
+  text-align: justify;
+  font-size: 1.5rem;
+}
+
+
+.linea{
+  justify-content: center;
+}
+
+.toximetro {
+  justify-content: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+#contenido {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+.play {
+
+  padding-left: 10rem;
+}
+
+#playstore, #appstore{
+  border: solid 1px black;
+  width: 100px;
+  height: 100px;
+
+}
+
+
+.footer {
+  background-color: rgb(117, 117, 119);
+  margin: 0px auto;
+  padding: 20px 0px; }
+
+
